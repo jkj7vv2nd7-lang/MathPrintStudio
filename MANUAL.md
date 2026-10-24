@@ -1,4 +1,4 @@
-# MathPrint Studio 1.3.1 操作マニュアル
+# MathPrint Studio 1.3.2 操作マニュアル
 
 ## 1. 最初の10分
 

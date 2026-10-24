@@ -1,4 +1,4 @@
-# MathPrint Studio 1.3.1
+# MathPrint Studio 1.3.2
 
 ## 実利用・改善フェーズ公開ベース
 

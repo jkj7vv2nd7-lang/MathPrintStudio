@@ -1,6 +1,6 @@
-MathPrint Studio 1.3.1
+MathPrint Studio 1.3.2
 Release track: Practical-use stabilization
 Build purpose: Public base for real-world teacher use and feedback-driven maintenance
 Main entry: index.html
-Validation: HTML parse / duplicate ID check / JavaScript syntax check
+Validation: HTML parse / duplicate ID check / JavaScript syntax check / headless-browser runtime regression (0 startup errors, all 20 feature launchers open, save-restore round-trip, Word math conversion)
 Full cross-browser E2E testing: not guaranteed; perform real-device checks after publication
